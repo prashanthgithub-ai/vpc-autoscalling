@@ -40,3 +40,4 @@ here we can change the html file
 note :repart the above steps for server 2 aslo
 affter complted all the above steps go to load balancer dns and copy the dns
 ![Screenshot 2024-09-02 151756](https://github.com/user-attachments/assets/a6f8a358-cc24-4abb-90a9-fecfedf01a4a)
+# copy the  DNS and paste it in browser
